@@ -1,0 +1,3 @@
+git add . - adiciona uma pasta ao controle local do github
+git commit -m "comentario da atualização que vc quer colocar"
+git push origin main - envia toda a pasta para o gitHub
